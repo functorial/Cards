@@ -1,5 +1,4 @@
-Press Enter to proceed through the demo.
-
+```
 It could be useful to follow along in the code.
 Let's make a deck...
 
@@ -332,3 +331,4 @@ The deck should be back to 52 cards:
 └-------┘
 
 The end!
+```
