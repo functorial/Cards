@@ -151,7 +151,7 @@ Third:
 | |      2|
 └-└-------┘
 
-I kind of like the second one here, tbh.
+I think I prefer the second one.
 
 Observe that the top four cards have been removed from the deck:
 ┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-┌-------┐
